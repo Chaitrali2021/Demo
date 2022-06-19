@@ -15,3 +15,16 @@ ks
 ks
 sk
 sk
+
+
+clone-
+add changes
+commit chanages
+push changes
+----create PR
+	Create Draft PR
+
+--Review
+review done:
+
+---Merge Pull Request
